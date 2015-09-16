@@ -1,5 +1,6 @@
 # python-chartmogul
-Extremely simple ChatMogul read-only API wrapper
+
+Extremely simple [ChartMogul](https://chartmogul.com) read-only API wrapper
 
 ## Example
 
